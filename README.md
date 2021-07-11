@@ -28,3 +28,4 @@ yarn start
 4. ``git add -A``
 5. ``git commit -m "adding files for github pages"``
 6. ``ggpush`` If you don't have zsh shell, you will have to run: ``git push origin master``
+7. See live github page <https://aambayec.github.io/tut-react-monsters/>.
