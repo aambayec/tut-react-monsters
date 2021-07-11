@@ -8,9 +8,9 @@ Basic React Tutorial from [complete-react-developer-zero-to-mastery](https://www
 yarn start
 ```
 
-## To Deploy in Github
+## To Deploy in Github Pages
 
-1. ``$ yarn add gh-pages``
+1. ``yarn add gh-pages``
 
 2. In `package.json` add these new items.
 
@@ -24,5 +24,7 @@ yarn start
      }
      ```
 
-3. ``$ yarn deploy``
-4. ``$ git add -A``
+3. ``yarn deploy``
+4. ``git add -A``
+5. ``git commit -m "adding files for github pages"``
+6. ``ggpush`` If you don't have zsh shell, you will have to run: ``git push origin master``
