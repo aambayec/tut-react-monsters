@@ -59,3 +59,9 @@ Modify your package.json, add `^` to enable updates without breaking changes
 ```shell
 npm update
 ```
+
+If you saw vulnerabilities run:
+
+```shell
+npm audit fix
+```
