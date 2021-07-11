@@ -29,3 +29,33 @@ yarn start
 5. ``git commit -m "adding files for github pages"``
 6. ``ggpush`` If you don't have zsh shell, you will have to run: ``git push origin master``
 7. See live github page <https://aambayec.github.io/tut-react-monsters/>.
+
+## To Update React Packages
+
+### Using Yarn
+
+Check your version
+
+```shell
+yarn list react react-dom react-scripts
+```
+
+Modify your package.json, add `^` to enable updates without breaking changes
+
+```shell
+yarn upgrade
+```
+
+### Using NPM
+
+Check your version
+
+```shell
+npm list react react-dom react-scripts
+```
+
+Modify your package.json, add `^` to enable updates without breaking changes
+
+```shell
+npm update
+```
