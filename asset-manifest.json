@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/tut-react-monsters/static/css/main.940d4e2e.chunk.css",
-    "main.js": "/tut-react-monsters/static/js/main.d83d9eac.chunk.js",
-    "main.js.map": "/tut-react-monsters/static/js/main.d83d9eac.chunk.js.map",
-    "runtime-main.js": "/tut-react-monsters/static/js/runtime-main.ef0cc102.js",
-    "runtime-main.js.map": "/tut-react-monsters/static/js/runtime-main.ef0cc102.js.map",
-    "static/js/2.12eabefd.chunk.js": "/tut-react-monsters/static/js/2.12eabefd.chunk.js",
-    "static/js/2.12eabefd.chunk.js.map": "/tut-react-monsters/static/js/2.12eabefd.chunk.js.map",
-    "static/js/3.7f045023.chunk.js": "/tut-react-monsters/static/js/3.7f045023.chunk.js",
-    "static/js/3.7f045023.chunk.js.map": "/tut-react-monsters/static/js/3.7f045023.chunk.js.map",
+    "main.css": "/tut-react-monsters/static/css/main.bae3eab0.chunk.css",
+    "main.js": "/tut-react-monsters/static/js/main.500462ef.chunk.js",
+    "main.js.map": "/tut-react-monsters/static/js/main.500462ef.chunk.js.map",
+    "runtime-main.js": "/tut-react-monsters/static/js/runtime-main.2b4d5757.js",
+    "runtime-main.js.map": "/tut-react-monsters/static/js/runtime-main.2b4d5757.js.map",
+    "static/js/2.23ab6f02.chunk.js": "/tut-react-monsters/static/js/2.23ab6f02.chunk.js",
+    "static/js/2.23ab6f02.chunk.js.map": "/tut-react-monsters/static/js/2.23ab6f02.chunk.js.map",
+    "static/js/3.e20715c1.chunk.js": "/tut-react-monsters/static/js/3.e20715c1.chunk.js",
+    "static/js/3.e20715c1.chunk.js.map": "/tut-react-monsters/static/js/3.e20715c1.chunk.js.map",
     "index.html": "/tut-react-monsters/index.html",
-    "static/css/main.940d4e2e.chunk.css.map": "/tut-react-monsters/static/css/main.940d4e2e.chunk.css.map",
-    "static/js/2.12eabefd.chunk.js.LICENSE.txt": "/tut-react-monsters/static/js/2.12eabefd.chunk.js.LICENSE.txt"
+    "service-worker.js": "/tut-react-monsters/service-worker.js",
+    "service-worker.js.map": "/tut-react-monsters/service-worker.js.map",
+    "static/css/main.bae3eab0.chunk.css.map": "/tut-react-monsters/static/css/main.bae3eab0.chunk.css.map",
+    "static/js/2.23ab6f02.chunk.js.LICENSE.txt": "/tut-react-monsters/static/js/2.23ab6f02.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef0cc102.js",
-    "static/js/2.12eabefd.chunk.js",
-    "static/css/main.940d4e2e.chunk.css",
-    "static/js/main.d83d9eac.chunk.js"
+    "static/js/runtime-main.2b4d5757.js",
+    "static/js/2.23ab6f02.chunk.js",
+    "static/css/main.bae3eab0.chunk.css",
+    "static/js/main.500462ef.chunk.js"
   ]
 }
